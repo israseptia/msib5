@@ -3,3 +3,6 @@ menggunakan perintah :
 git add -> untuk menambahkan data atau file 
 git commit -m -> untuk menambahkan tanda atau komentar
 git push -u origin master -> untuk memaastikan file masuk kedalam repo
+git config --global user.name -> untuk memastikan settingan username kedalam git kita
+git config --global user.email -> ...".... settingan email kedalam git kita
+git init -> jika ingin komputer dengan github terhubung dan biasanya digunakan ketika akan melakukan remote
